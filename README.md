@@ -46,7 +46,7 @@ Parse license metadata from many open source software ecosystems.
 
 ## Roadmap
 
-### Repositories
+### [Repos](https://github.com/ecosyste-ms/repos)
 
 Repository metadata for many open source software ecosystems.
 
