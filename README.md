@@ -78,6 +78,9 @@ Metadata and parsing services and data for containers.
 
 Automated and regularly published open data releases for all services
 
+### Package Building Service
+
+Test the reproducability of packages by automatically rebuilding from source and comparing.
 
 ## Contribute
 
