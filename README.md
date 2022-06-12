@@ -84,7 +84,7 @@ Test the reproducability of packages by automatically rebuilding from source and
 
 ## Contribute
 
-Please do! The source code is hosted at [GitHub](https://github.com/ecosyste-ms/roadmap). If you want something, [open an issue](https://github.com/ecosyste-ms/paroadmapckages/issues/new) or a pull request.
+Please do! The source code is hosted at [GitHub](https://github.com/ecosyste-ms/roadmap). If you want something, [open an issue](https://github.com/ecosyste-ms/roadmap/issues/new) or a pull request.
 
 If you need want to contribute but don't know where to start, take a look at the issues tagged as ["Help Wanted"](https://github.com/ecosyste-ms/roadmap/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22).
 
