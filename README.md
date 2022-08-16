@@ -44,11 +44,16 @@ Generate diffs between package releases for many open source software ecosystems
 
 Parse license metadata from many open source software ecosystems.
 
-## Roadmap
 
 ### [Repos](https://github.com/ecosyste-ms/repos)
 
 Repository metadata for many open source software ecosystems.
+
+## Roadmap
+
+### Open Data Releases
+
+Automated and regularly published open data releases for all services
 
 ### Dependencies
 
@@ -73,10 +78,6 @@ Support for system package managers like apt, yum, dpkg and pacman in [Packages]
 ### Containers
 
 Metadata and parsing services and data for containers.
-
-### Open Data Releases
-
-Automated and regularly published open data releases for all services
 
 ### Package Building Service
 
