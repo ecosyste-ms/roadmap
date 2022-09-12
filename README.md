@@ -44,16 +44,15 @@ Generate diffs between package releases for many open source software ecosystems
 
 Parse license metadata from many open source software ecosystems.
 
-
 ### [Repos](https://github.com/ecosyste-ms/repos)
 
 Repository metadata for many open source software ecosystems.
 
-## Roadmap
+### [Resolve](https://github.com/ecosyste-ms/resolve)
 
-### Open Data Releases
+Resolve full dependency trees for many open source software ecosystems.
 
-Automated and regularly published open data releases for all services
+## Planned services
 
 ### Dependencies
 
@@ -62,10 +61,6 @@ Dependency graph metadata for many open source software ecosystems.
 ### Contributors
 
 Contributor metadata for many open source software ecosystems.
-
-### Resolve 
-
-Resolve full dependency trees for many open source software ecosystems.
 
 ### CVE
 
