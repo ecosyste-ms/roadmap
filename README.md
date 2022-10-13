@@ -54,10 +54,6 @@ Resolve full dependency trees for many open source software ecosystems.
 
 ## Planned services
 
-### Dependencies
-
-Dependency graph metadata for many open source software ecosystems.
-
 ### Contributors
 
 Contributor metadata for many open source software ecosystems.
