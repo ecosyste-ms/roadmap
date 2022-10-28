@@ -22,7 +22,7 @@ Package, version and dependency metadata many open source software ecosystems an
 
 ### [Timeline](https://github.com/ecosyste-ms/timeline)
 
-The timeline of over 4 Billion events for every public repo on GitHub, all the way back to 2015.
+The timeline of over 5 Billion events for every public repo on GitHub, all the way back to 2015.
 
 ### [Parser](https://github.com/ecosyste-ms/parser)
 
