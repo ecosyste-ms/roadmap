@@ -52,23 +52,19 @@ Repository metadata for many open source software ecosystems.
 
 Resolve full dependency trees for many open source software ecosystems.
 
+### [Advisories](https://github.com/ecosyste-ms/advisories)
+
+Security vulnerability metadata for many open source software ecosystems.
+
 ## Planned services
 
 ### Contributors
 
 Contributor metadata for many open source software ecosystems.
 
-### CVE
-
-Security vulnerability metadata for many open source software ecosystems.
-
 ### System Package Managers
 
 Support for system package managers like apt, yum, dpkg and pacman in [Packages](https://github.com/ecosyste-ms/packages).
-
-### Containers
-
-Metadata and parsing services and data for containers.
 
 ### Package Building Service
 
