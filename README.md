@@ -22,7 +22,7 @@ Package, version and dependency metadata many open source software ecosystems an
 
 ### [Timeline](https://github.com/ecosyste-ms/timeline)
 
-The timeline of over 5 Billion events for every public repo on GitHub, all the way back to 2015.
+The timeline of over 6 Billion events for every public repo on GitHub, all the way back to 2015.
 
 ### [Parser](https://github.com/ecosyste-ms/parser)
 
@@ -56,11 +56,15 @@ Resolve full dependency trees for many open source software ecosystems.
 
 Security vulnerability metadata for many open source software ecosystems.
 
+### [Commits](https://github.com/ecosyste-ms/commits)
+
+Commit metadata for open source projects.
+
 ## Planned services
 
-### Contributors
+### Readmes
 
-Contributor metadata for many open source software ecosystems.
+Discovering and rendering README files for open source projects.
 
 ### System Package Managers
 
