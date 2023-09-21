@@ -18,7 +18,7 @@ or combined together to form more powerful pipelines and datasets.
 
 ### [Packages](https://github.com/ecosyste-ms/packages)
 
-Package, version and dependency metadata many open source software ecosystems and registries.
+Package, version and dependency metadata of many open source software ecosystems and registries.
 
 ### [Timeline](https://github.com/ecosyste-ms/timeline)
 
