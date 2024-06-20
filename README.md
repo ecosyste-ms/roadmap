@@ -5,6 +5,8 @@ Planning and roadmap for future Ecosyste.ms development
 
 The project builds on the ideas of an earlier tool [libraries.io](http://libraries.io/), but focuses more on expanding available data and APIs to take it to the next level. This tool provides a foundational basis for researchers to better analyze OSS and for funders to better prioritize which projects most need to be funded.
 
+Check out the initial roadmap proposal from 2022 here: https://github.com/ecosyste-ms/.github/files/8815813/Ecosystems.Proposal.3.pdf
+
 ## Goals
 
 - A comprehensive set of APIs for parsing and querying open source package manager metadata from across many software ecosystems
